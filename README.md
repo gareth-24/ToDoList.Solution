@@ -57,9 +57,9 @@ ToDoList.Solution
     └── ToDoList.Tests.csproj
 ```
 ## Images to Reference
-![objects-within-objects-RESTnaming](Img/objects-within-objects.jpg)
+![objects-within-objects-RESTnaming](ToDoList/wwwroot/img/objects-within-objects.jpg)
 
-![Controller-Actions](Img/ToDoListActions.png)
+![Controller-Actions](ToDoList/wwwroot/img/ToDoListActions.png)
 
 ## Known Bugs
 
